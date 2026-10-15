@@ -1,6 +1,4 @@
 - 👋 Hi, My name is Rich.
-- 👀 I’m interested in fintech and computational social science.
-- 🌱 I’m currently a PhD student in information systems at Georgia Tech.
 - 💞️ I’m looking to collaborate on fun business research projects.
 - 📫 You can reach me at LinkedIn or Twitter.
 <!---
